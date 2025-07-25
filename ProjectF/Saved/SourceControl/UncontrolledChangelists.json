@@ -77,7 +77,11 @@
 				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Art/32rogues/items-palette-swaps.uasset",
 				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Art/32rogues/monsters.uasset",
 				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Art/32rogues/rogues.uasset",
-				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Art/32rogues/tiles.uasset"
+				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Art/32rogues/tiles.uasset",
+				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Input/Actions/IMC_TopDown.uasset",
+				"C:/Users/dylan/OneDrive/Documents/GitHub/ProjectF/ProjectF/Content/Blueprints/KidRed/ABP_KidRed.uasset"
 			]
 		}
 	]
